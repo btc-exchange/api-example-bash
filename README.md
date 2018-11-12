@@ -5,6 +5,13 @@ Simple bash example of btc-exchange api
 * `API KEY`. If you don't have, please read "How to request API KEY"
 * Your generated `private key`
 
+## How to use
+* `git clone https://github.com/btc-exchange/api-example-bash.git`
+* `cd api-example-bash`
+* `chmod +x api-example.sh`
+* `vi api-example.sh` and provide your's `API_KEY` and path of `PRIVATE_KEY`
+* Run `./api-example.sh`
+
 ## How to request API KEY
 Please generate RSA keypair with with your public and private key and send _public key_ to us (info@bitmarket.lt) asking to grant you `API KEY`. 
 
